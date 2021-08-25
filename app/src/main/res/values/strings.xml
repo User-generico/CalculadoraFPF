@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculadoraFPF</string>
+    <string name="fibonacci">Fibonacci</string>
+    <string name="primo">Primo</string>
+    <string name="fatorial">Fatorial</string>
+    <string name="titulo">Calculadora FPF</string>
+    <string name="fat_placeholder_text">SEU NÚMERO DESTRINCHADO (AKA FATORIAL)</string>
+    <string name="fib_placeholder_text">NÚMEROS DO CARA COM NOME DE MACARRÃO APARECERÃO AQUI</string>
+    <string name="pri_placeholder_text">DIREMOS SE ESTE NÚMEREO É PRIMO OU NÃO, AGURDE SUA RESPOSTA</string>
+    <string name="enter">Enter</string>
+    <string name="voltar">voltar</string>
+    <string name="eprimo">O NÚMERO É PRIMO</string>
+    <string name="nprimo">O NÚMERO NÃO É PRIMO </string>
+</resources>
