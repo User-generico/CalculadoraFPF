@@ -46,6 +46,7 @@ public class Fibonnaci extends AppCompatActivity {
     @SuppressWarnings("SpellCheckingInspection")
     @SuppressLint("SetTextI18n")
     public void insercao3(View v){
+        pilha3.clear();
         int x = Integer.parseInt(String.valueOf(numero3.getText()));
         int a = 0;
         int b = 1;
